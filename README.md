@@ -8,7 +8,7 @@
         provider_installation {
 
         dev_overrides {
-            "sachin.com/terraform-provider/todo" = "/Users/sachin/go/bin"
+            "sachin.com/terraform-provider/todo" = "go-path/go/bin"
         }
 
         # For all other providers, install them directly from their origin provider
